@@ -1,0 +1,179 @@
+.main{
+    background-image: url("https://kq-storage.s3.ap-south-1.amazonaws.com/Github/animax/animax-bg%5B1%5D.png");
+    background-size: 100% 100%;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 14%;
+    border: 8px solid #1B1717;
+            
+}
+
+.animax img{
+    position: absolute;top: 50px;left: 40px;
+    height: 60px;    
+}
+
+.scroll{
+    text-align: center;
+}
+
+
+.first{
+    background-color: black;
+    color: white;
+    border:1px solid #1B1717
+}
+
+.second{
+    background-color: black;
+    color: white;
+    border:1px solid #1B1717
+}
+
+.third{
+    background-color: black;
+    color: white;
+    border:1px solid #1B1717
+}
+
+.Kalvium{
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: #1B1717 1px solid;
+    font-size: 30px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+
+header p{
+    position: absolute; top: 0px; right: 12px;
+    color: white;
+}
+
+.sec h1{
+    font-size: 70px;
+}
+
+.sec p{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+.main .jk p{
+    float: right;
+    padding: 15px;
+    width: ;
+    background-color: #F50A5F;
+    height: ;
+    position: absolute; top: 40px; right: 50px;
+
+}
+
+.jk p{
+    background-color: #F50A5F;
+    padding: 15px;
+}
+
+.first a{
+    background-color: #F50A5F;
+    color: white;
+}
+
+.second a{
+    background-color: #F50A5F;
+    color: white;
+}
+
+.third a{
+    background-color: #F50A5F;
+    color: white;
+}
+
+.first{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.f{
+    flex: 50%;
+
+}
+
+.g img{
+    width: 50%;
+}
+
+.second{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.m{
+    flex: 50%;
+}
+.n img{
+    width: 50%;
+}
+
+.third{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+}
+.l{
+    flex:50%;
+}
+.k img{
+    width: 50%;
+}
+
+.f p {
+    text-align: left;
+    padding-left: 200px;
+}
+
+.m p{
+    text-align: left;
+    padding-left: 170px;
+}
+
+.l p{
+    text-align: left;
+    padding-left: 200px;
+}
+
+.f h2{
+    text-align: left;
+    padding-left: 200px;
+}
+
+.m h2{
+    text-align: left;
+    padding-left: 170px;
+}
+
+.l h2{
+    text-align: left;
+    padding-left: 200px;
+}
+
+input{
+    background-color: #F50A5F;
+    color:white;
+    border: 1px #F50A5F;
+    font-size: x-large;
+    font-style: normal;
+    padding: 10px 10px;
+    text-align:center;
+}

@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    color: black;
+    border: 5px;
+    border-style: groove;
+    border-radius: 20px;
+}
+
+body{
+    background-color: beige ;
+}
+
+h2{
+    text-align: center;
+    color: rgb(242, 128, 28);
+    text-shadow:5px;
+}
+
+p{
+    color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+div{
+    background-color:yellowgreen
+    border: 2px;
+    border-style: groove;    
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+.b{
+    background-color: rgb(117, 173, 32);
+    box-shadow: darkolivegreen 5px 5px 10px 10px;
+    border-style: outset;
+    border-radius: 20px;
+}
+

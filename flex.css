@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+}
+
+.container{
+    border: 6px solid #000000;
+    display: flex;
+}
+
+.flex-item{
+    color: white;
+    font-size: 1.5rem;
+    padding: 1 rem;
+    text-align: center;  
+    height: 500px;
+
+        
+}
+
+.item-1{
+    background-color: aqua;
+    align-self: flex-start;
+}
+
+.item-2{
+    background-color: aquamarine;
+    align-self: flex-end;
+
+}
+
+.item-3{
+    background-color: sienna;
+}
+
+.item-4{
+    background-color: bisque;
+}
+
+.item-5{
+    background-color: burlywood;
+
+}
+
+.item-6{
+    background-color: cadetblue;
+    
+}
+
+.item-7{
+    background-color: cornflowerblue;
+}
+
+.item-8{
+    background-color: violet;
+}
+
+.item-9{
+    background-color: thistle;
+}
+
+.item-10{
+    background-color: tan;
+}

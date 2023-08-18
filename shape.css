@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://kq-storage.s3.ap-south-1.amazonaws.com/Github/shape_generator/box-generator-bg%5B1%5D.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 10% ;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    
+}
+
+form{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+p{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 20px;
+}
+

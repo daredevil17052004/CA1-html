@@ -1,0 +1,178 @@
+
+.main{
+    display:flex ;
+    flex-direction: column;
+}
+.container1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: whitesmoke;
+}
+
+.container2{
+    display: flex;
+    flex-direction: column ;
+    text-align: center;
+    background-color: lavender;
+}
+
+.dash1{
+    display: flex;
+    align-items: center;
+    margin-left:40px ;
+}
+.a img{
+    height: 80px;
+}
+.a{
+    padding: 5px;
+}
+.b{
+    padding: 5px;
+}
+.c{
+    padding: 5px;
+}
+.d{
+    padding: 5px;
+}
+.e{
+    padding: 5px;
+}
+.f{
+    padding: 5px;
+}
+
+.dash2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;    
+    margin-right: 40px;
+}
+.g{
+    padding: 5px;
+}
+.h{
+    padding: 5px;
+}
+
+.container2 .search{
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    width: 990px;
+    align-items: center;
+}
+
+.search .i{
+    font-size: 50px;
+}
+
+.search .j input{
+    font-size: 15px;
+}
+
+.container2 .list{
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    width: 990px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.container2 .list span{
+    color: rgb(102, 102, 102);
+}
+.list .l {
+    border-left: 1px solid gray;
+    padding-left: 5px;
+}
+.list .m{
+    border-left: 1px solid gray;
+    padding-left: 5px;
+}
+.list .n{
+    border-left: 1px solid gray;
+    padding-left: 5px;
+}
+.container2 .prop{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-self: center;
+    width: 1030px;
+}
+
+.prop .prop1{
+    width: 300px;
+    height: 350px;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    box-shadow: 1px 1px ;
+    margin-bottom: 10px;
+}
+.prop2{
+    width: 300px;
+    height: 350px;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    box-shadow: 1px 1px ;
+    margin-bottom: 10px;
+
+}
+.prop3{
+    width: 300px;
+    height: 350px;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    box-shadow: 1px 1px ;
+    margin-bottom: 10px;
+}
+.prop4{
+    width: 300px;
+    height: 350px;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    box-shadow: 1px 1px ;
+    margin-bottom: 10px;
+}
+.prop5{
+    width: 300px;
+    height: 350px;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    box-shadow: 1px 1px ;
+    margin-bottom: 10px;
+}
+
+.prop6{
+    width: 300px;
+    height: 350px;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    box-shadow: 1px 1px ;
+    margin-bottom: 10px;
+}
+
+
+.prop{
+    text-align: left;
+    
+}
+
+.prop p{
+    margin-left: 20px;
+}
+
+.prop span{
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.prop img{
+    width: 300px;
+    height: 200px;
+}

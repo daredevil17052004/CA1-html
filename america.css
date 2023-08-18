@@ -1,0 +1,95 @@
+.header {
+    display: flex;
+    justify-content: space-between
+    ;
+}
+.headerleft {
+    display: flex;
+    justify-content: flex-start;
+}
+.headerright {
+    text-align: center;
+    display: flex;
+    justify-content:flex-end;
+    text-align: center;
+}
+.home {
+    padding: 5%;
+}
+.about{
+    padding: 5%;
+}
+.travel {
+    padding: 5%;
+}
+.contact {
+    padding: 5%;
+}
+.blog{
+    padding: 5%;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: aqua;
+}
+h2 {
+    text-align: center;
+    font-size: 60px;
+    margin-top: -40px;
+}
+.Bur {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.button {
+    border-radius: 30px;
+    background-color: orangered;
+    color: white;
+    padding: 1%;
+    width: 210px;
+}
+.fyt{
+    margin-left: 150px;
+}
+body{
+    background-image: url("https://html.design/demo/eforlad/images/banner.jpg")
+}
+.footer{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgba(250, 235, 215, 0.811);
+    margin-left: 150px;
+    margin-right:150px ;
+}
+.footerleftup{
+    display: flex;
+    justify-content: space-around;
+    padding: 5%;
+}
+
+.footerleftdown {
+    display: flex;
+    justify-content: space-around;
+    padding: 5%;
+}
+.footerright{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding: 5%;
+    
+}
+.d {
+    background-color: orangered;
+    color: aliceblue;
+}
+.i {
+    width:200px ;
+    height: 40px;
+}
+.d{
+    padding: 15px;
+    width: 100px;
+}

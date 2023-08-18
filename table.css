@@ -1,0 +1,6 @@
+table, th, td{
+    border: 1px solid darkgoldenrod;
+    color: darkred;
+    text-align: center;
+    padding: 10px;
+}
